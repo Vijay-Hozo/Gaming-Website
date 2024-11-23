@@ -5,6 +5,7 @@ import About from './Components/About'
 import Navbar from './Components/Navbar'
 import Features from './Components/Features'
 import Story from './Components/Story'
+import Contact from './Components/Contact'
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
         <About />
         <Features />
         <Story />
+        <Contact />
     </main>
   )
 }
